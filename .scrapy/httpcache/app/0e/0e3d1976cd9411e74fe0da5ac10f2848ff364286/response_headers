@@ -1,0 +1,12 @@
+Content-Encoding: gzip
+Cf-Ray: 5e9404e4590b0ad4-NRT
+Cf-Cache-Status: DYNAMIC
+Nel: {"report_to":"cf-nel","max_age":604800}
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=pXQByyezBJlQ2Gjwq8Rj5mXN2fTqPJABCjOCJMmA2BkBSOaK%2BXaA6G74ajATM2ENvMtWG2QUgH9Yl07LR07mHuuBSWAuiXfXP7C41MMhbokFG2OA"}],"group":"cf-nel","max_age":604800}
+Set-Cookie: JSESSIONID=CEBE7815FF40BB658C44281C623F4A12; Path=/; Secure; HttpOnly
+Date: Wed, 28 Oct 2020 10:37:01 GMT
+Cf-Request-Id: 06106162b700000ad4db074000000001
+Server: cloudflare
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html;charset=UTF-8

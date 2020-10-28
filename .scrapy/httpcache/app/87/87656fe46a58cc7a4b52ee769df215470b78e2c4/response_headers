@@ -1,0 +1,13 @@
+Content-Encoding: gzip
+Date: Tue, 27 Oct 2020 16:29:02 GMT
+Vary: Accept-Encoding,User-Agent
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=8P7gqxx3YRPohfzbPJlha8EE%2BOP%2Ft7eu9TuL4XpF2G48KQXYasT8ZpEbXlCvxT0x8Qh49ftboowrJqsjSv%2B7eFJjzVayvlLjj8a8tZcUyfSKXwQJ"}],"group":"cf-nel","max_age":604800}
+Cf-Cache-Status: DYNAMIC
+Content-Type: text/html;charset=UTF-8
+Set-Cookie: __atvuca_dfp1=1603816141969mybaa2fb65a64bda4ae4ab368ab1a4e9c470dc18; Domain=.i3investor.com; Expires=Fri, 25-Oct-2030 16:29:01 GMT; Path=/
+Set-Cookie: JSESSIONID=383392E3322D845CF64FAE1F6947B273; Path=/; Secure; HttpOnly
+Cf-Ray: 5e8dcb267fd80af8-NRT
+Nel: {"report_to":"cf-nel","max_age":604800}
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Cf-Request-Id: 060c7d4c0e00000af8e3b23000000001
+Server: cloudflare

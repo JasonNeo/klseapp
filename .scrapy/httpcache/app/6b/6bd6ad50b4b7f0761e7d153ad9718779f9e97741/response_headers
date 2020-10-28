@@ -1,0 +1,17 @@
+Etag: "e823-5b29d09e18072"
+Age: 100367
+Date: Wed, 28 Oct 2020 10:46:13 GMT
+Cache-Control: max-age=31536000
+Vary: Accept-Encoding
+Cf-Request-Id: 061069cf6d0000f8f3959dd000000001
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Cf-Cache-Status: HIT
+Accept-Ranges: bytes
+Server: cloudflare
+Cf-Ray: 5e94125f1e31f8f3-NRT
+Nel: {"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=Pb495e%2FAmoG5xPXnicpeysugyOTrFKS%2FRUMs4CEfNBgYobfe5yIdSIcJ9n5pgJJI7iwn5%2Bc639v36powEU%2Bxo8GTD9iUygW5erCvK7zaRhq4i9TU"}],"group":"cf-nel","max_age":604800}
+Content-Type: application/pdf
+Access-Control-Allow-Origin: *
+Last-Modified: Tue, 27 Oct 2020 01:33:48 GMT
+Expires: Wed, 27 Oct 2021 06:53:26 GMT

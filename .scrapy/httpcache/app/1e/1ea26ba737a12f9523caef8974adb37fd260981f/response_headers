@@ -1,0 +1,11 @@
+Content-Encoding: gzip
+Date: Wed, 28 Oct 2020 10:37:02 GMT
+Cf-Ray: 5e9404eb4a791d93-NRT
+Cf-Request-Id: 061061671400001d931c19c000000001
+Cf-Cache-Status: DYNAMIC
+Nel: {"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=9yDuUfU3E%2F4CV2esolHIUxqz%2Fux4Qk541qjY7G5Z7kdn8Zp1Ibpi6ReaDPaE%2Bb7Nd%2BlJGGqVvxuMBXt2En5xKLPgaelCXGZ%2FmsNxeO9ejDJ81If6"}],"group":"cf-nel","max_age":604800}
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Vary: Accept-Encoding,User-Agent
+Content-Type: text/html;charset=UTF-8
